@@ -1,0 +1,20 @@
+omoloez
+[Key.cmd]
+[Key.space]c
+[Key.ctrl]
+ Mouse Clicked Button.left at 1780896835.958878ksnit
+[Key.space]mango
+[Key.space]oootkrl
+[Key.space]mmdonf
+[Key.space]mondfmomfd
+ Mouse Clicked Button.left at 1780896853.625451
+ Mouse Clicked Button.left at 1780896856.460983
+[Key.space]
+[Key.right]
+[Key.left]
+[Key.left]
+[Key.right]
+[Key.right]
+[Key.right]
+[Key.space]
+ Mouse Clicked Button.left at 1780896871.209306
